@@ -97,4 +97,5 @@ def load_and_initialize(config):
     return x1_train_raw, x2_train_raw, Y_list
 
 if __name__ == '__main__':
+    print("ok")
     main()
